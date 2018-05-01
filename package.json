@@ -1,0 +1,29 @@
+{
+  "name": "graphql-resolver-loader",
+  "version": "1.0.0",
+  "description": "A loader for graphql resolvers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzrdtales/graphql-resolver-loader.git"
+  },
+  "keywords": [
+    "loader",
+    "graphql",
+    "apollo",
+    "resolver"
+  ],
+  "author": "Tobias Gurtzick <magic@wizardtales.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wzrdtales/graphql-resolver-loader/issues"
+  },
+  "homepage": "https://github.com/wzrdtales/graphql-resolver-loader#readme",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "lodash": "^4.17.10"
+  }
+}
